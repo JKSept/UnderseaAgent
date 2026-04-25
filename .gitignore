@@ -11,3 +11,7 @@ wheels/
 
 #
 .env
+
+prompts.py
+calculator/html/
+calculator/css/
